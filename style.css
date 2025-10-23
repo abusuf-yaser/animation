@@ -232,11 +232,11 @@ input:checked + .toggle-slider:before {
 }
 
 /* Responsive */
-@media (max-width: 788px) {
+@media (max-width: 768px) {
   #controls {
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
     padding: 10px;
     width: auto;
     bottom: 15px;
